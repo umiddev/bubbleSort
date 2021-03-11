@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614405167 source:/home/umid/Desktop/8dars/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1614419111 source:/home/umid/Desktop/sorting bubble sort algaritm/main.c
+	<stdio.h>
+	<stdlib.h>
+
